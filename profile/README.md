@@ -11,7 +11,7 @@ Most of us learned to work together on GitHub. When a team moves to a self-hoste
 - **Co-authors get the credit.** `Co-authored-by` trailers show up as people, with avatar and profile link, on every commit.
 - **Packages belong to their repository.** Repo write publishes, repo read downloads, and Actions publish with their built-in token.
 
-Everything else is Forgejo, following every release within a day.
+Everything else is Forgejo. Each new Forgejo release arrives as a pull request within a day.
 
 ### Projects
 
